@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<div style="display: flex; flex-wrap: wrap">
+<div style="display: flex; flex-wrap: wrap; align-items: start;">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=facundolema&show_icons=true&theme=algolia"
@@ -22,8 +22,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundolema&theme=algolia)](https://github.com/anuraghazra/github-readme-stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundolema&theme=algolia"
   />
  </div>
-
-

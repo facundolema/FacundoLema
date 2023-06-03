@@ -21,7 +21,9 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facundolema&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundolema&theme=algolia)](https://github.com/anuraghazra/github-readme-stats"
+  />
  </div>
 
 

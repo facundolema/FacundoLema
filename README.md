@@ -9,19 +9,18 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facundolema&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=facundolema&show_icons=true&theme=algolia"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=facundolema&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<div style="display: flex; flex-wrap: wrap">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=facundolema&show_icons=true&theme=algolia"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=facundolema&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  </picture>
+ </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facundolema&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)

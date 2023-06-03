@@ -10,11 +10,11 @@
 - ⚡ Fun fact: ... -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facundolema)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facundolema&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=facundolema&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=facundolema&show_icons=true&theme=algolia"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -24,4 +24,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facundolema)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=facundolema&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)

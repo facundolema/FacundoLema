@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<div style="display: flex; flex-wrap: wrap; align-items: start;">
+<div style="display: flex; flex-wrap: wrap; align-items: end;">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=facundolema&show_icons=true&theme=algolia"

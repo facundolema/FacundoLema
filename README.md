@@ -9,5 +9,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=facundolema&show_icons=true&theme=algolia&hide=issues" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundolema&theme=algolia&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=facundolema&show_icons=true&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundolema&theme=algolia" />

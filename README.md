@@ -12,23 +12,16 @@
 <div style="display: flex; flex-wrap: wrap;">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=facundolema&show_icons=true&theme=algolia"
+      srcset="https://github-readme-stats.vercel.app/api?username=facundolema&show_icons=true&theme=algolia&hide=issues"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=facundolema&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=facundolema&show_icons=true&hide=issues"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=issues" />
   </picture>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundolema&theme=algolia"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundolema&theme=algolia&layout=compact"
   />
  </div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
